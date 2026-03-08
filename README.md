@@ -28,7 +28,7 @@ Recently, I have been focusing on building a strong foundation in machine learni
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,c,cpp,java,dart,git,bash,postgres,mongodb,linux,docker" />
+    <img src="https://skillicons.dev/icons?i=python,c,cpp,java,dart,git,bash,postgres,mongodb,linux,docker,flutter" />
   </a>
 </p>
 
@@ -36,14 +36,17 @@ Recently, I have been focusing on building a strong foundation in machine learni
 
 <p align="left">
   <a href="https://numpy.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.simpleicons.org/numpy" width="48" height="48" alt="NumPy" title="NumPy" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48" height="48" alt="NumPy" title="NumPy" />
   </a>
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.simpleicons.org/pandas" width="48" height="48" alt="Pandas" title="Pandas" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48" height="48" alt="Pandas" title="Pandas" />
   </a>
   <a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="48" height="48" alt="Matplotlib" title="Matplotlib" />
   </a>
+  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
+    <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/seaborn/seaborn-original.svg" width="48" height="48" alt="Seaborn" title="Seaborn" />
+  </a> -->
 </p>
 
 ## GitHub Activity
